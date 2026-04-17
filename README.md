@@ -59,3 +59,56 @@ Its source code is (or **will be**) available in the following repositories.
   Qihang Li, Zhuoqun Chen, Haoze Zheng, Haonan He, Shaoshu Su, Junyi Geng, Chen Wang.
 
   IEEE International Conference on Robotics and Automation (ICRA), pp. 10164–10170, 2025.
+
+## Other Publications Using Imperative Learning
+
+- **Resilient Odometry via Hierarchical Adaptation**.
+  
+  Shibo Zhao, Sifan Zhou, Yuchen Zhang, Ji Zhang, Chen Wang, Wenshan Wang, Sebastian Scherer.
+  
+  Science Robotics, vol. 10, no. 109, 2025.
+
+  Code link: https://github.com/superxslam/SuperOdom
+  
+  - Top featured article in Science Robotics;
+  - Imperative learning enables all-weather resiliency;
+  - Exhibiting only 0.000067 (0.2m / 3km) drift without loop closure
+ 
+- **AnyNav**: Visual Neuro-symbolic Friction Learning for Off-road Navigation.
+  
+  Taimeng Fu, Zitong Zhan, Zhipeng Zhao, Shaoshu Su, Xiao Lin, Ehsan Tarkesh Esfahani, Karthik Dantu, Souma Chowdhury, Chen Wang.
+
+  arXiv preprint arXiv:2501.12654, 2025.
+
+  - A self-supervised friction estimation framework
+
+- **Bundle Adjustment in the Eager Mode**.
+
+  Zitong Zhan, Huan Xu, Zihang Fang, Xinpeng Wei, Yaoyu Hu, Chen Wang.
+
+  arXiv preprint arXiv:2409.12190, 2025.
+
+  Code link: https://github.com/pypose/bae
+
+  - A GPU implementation achieving 20x speedup
+ 
+## Recommended External Publications
+
+- **Joint Sparse Optical Flow Estimation and Keypoint Detection via Dual-task Imperative Learning**.
+
+  Qiang Liu, Baojia Chen, Zhiqiang Hao, Xinlong Li, Leilei Xiang, Juan Liu.
+
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), vol. 48, no. 3, pp. 2659–2675, 2026.
+
+
+- **A Self-Supervised Learning Approach with Differentiable Optimization for UAV Trajectory Planning**.
+
+  Yufei Jiang, Yuanzhu Zhan, Harsh Vardhan Gupta, Chinmay Borde, Junyi Geng.
+
+  IEEE International Conference on Robotics and Automation (ICRA), 2026.
+
+- **Imperative MPC: An End-to-End Self-Supervised Learning with Differentiable MPC for UAV Attitude Control**.
+
+  Haonan He, Yuheng Qiu, Junyi Geng.
+
+  Annual Learning for Dynamics & Control Conference (L4DC), vol. 283, pp. 1140–1153, 2025.
